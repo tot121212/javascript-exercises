@@ -2,7 +2,8 @@
 
 Pretty simple, write a function called `reverseString` that returns its input, reversed!
 
-```javascript
+```
+javascript
 reverseString('hello there') // returns 'ereht olleh'
 ```
 
